@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("IGT PLC")]
 [assembly: AssemblyProduct("GameDevVersionTracker")]
-[assembly: AssemblyCopyright("Copyright © IGT PLC 2024")]
+[assembly: AssemblyCopyright("####")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
