@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GameDevVersionTracker")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IGT PLC")]
+[assembly: AssemblyCompany("###")]
 [assembly: AssemblyProduct("GameDevVersionTracker")]
 [assembly: AssemblyCopyright("####")]
 [assembly: AssemblyTrademark("")]
