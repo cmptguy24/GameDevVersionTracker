@@ -21,7 +21,7 @@ namespace GameDevVersionTracker
             InitializeComponent();
         }
 
-        string connectionString = "Data Source=172.22.100.45;Initial Catalog=CSPCMTeamMarketIDs;Persist Security Info=True;User ID=cspcc;Password=#CSPCMT!K3rnel99";
+        string connectionString = "Data Source=###.###.###.###;Initial Catalog=###;Persist Security Info=True;User ID=###;Password=####"; // Server settings go here
 
         private void Form1_Load(object sender, EventArgs e)
         {
